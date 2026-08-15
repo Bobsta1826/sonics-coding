@@ -1,1 +1,1 @@
-#mapCanvas{background-color:#071b26!important;background-image:linear-gradient(#03101a33,#03101a33),url('maps/chernarusplus.png')!important;background-size:cover!important;background-position:center!important}
+#mapCanvas{height:auto!important;aspect-ratio:1/1!important;max-width:760px;background-color:#071b26!important;background-image:linear-gradient(#03101a33,#03101a33),url('maps/chernarusplus.png')!important;background-size:100% 100%!important;background-position:center!important}
